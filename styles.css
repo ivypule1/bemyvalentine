@@ -31,6 +31,10 @@ body{
     align-items: baseline;
 }
 
+.yes-gif {
+  max-width: 100%;
+  height: auto;
+}
 
 .container{
     display: flex;
